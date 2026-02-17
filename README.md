@@ -16,7 +16,7 @@ Because what makes us is not a couple lines of text, but the ideal, and our visi
 [Listen to the cost of failure](https://www.youtube.com/watch?v=NppAtbpRANs)
 
 In Frostpunk games, you can feel the cold winds on your face.
-If you fail a design, people will die. Like how you can fail the last city on earth.
+If you fail a design, people will can die. Like how you can fail the last city on earth.
 Feel the Frostpunk atmosphere, maybe play the games.
 Feel the burden it brings, the pressure you feel, the moral dilemmas, and the mix of confidence and anxiety you might have when designing a system.
 Good system designers don't "flow." They suffer the weight, the ideals they have.
